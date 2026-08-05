@@ -34,7 +34,7 @@ Excluding the <b>550 unknown location reports</b>, the majority of daily road ac
 
 <font color="#1E3A8A">
 
-> 💡 **Work Zone Safety:** Out of all 1,536 reports, only **18 incidents** occurred within active work zones.
+> 💡 **Work Zone Safety:** Out of all 1,536 reports, only **18 incidents** occurred within active work zones. From there, we can conclude that this is not a safety concern for workers.
 
 </font>
 
@@ -61,6 +61,7 @@ The dataset highlights vehicle actions directly preceding collisions:
 
 * **CP Section:** **"Proceeding Straight"** was the leading movement with **177 incidents**.
 * **SV Section:** **"Proceeding Straight"** was also the top occurrence with **294 incidents**.
+* **Takeaway:** This is very surprising as a lot of accidents occur during turns at an intersection with human drivers.
 
 </font>
 
@@ -70,8 +71,8 @@ The dataset highlights vehicle actions directly preceding collisions:
 
 <font color="#1E3A8A">
 
-* **Injury Rates:** Excluding unknown records, only **30% of the accidents** resulted in no injuries (property damage only).
-* **Takeaway:** Unlike datasets with lower injury rates, a significant majority (70%) of known ADAS collisions involved some level of reported injury.
+* **Injury Rates:** Excluding unknown records, only **37.5% of the accidents** resulted in no injuries (property damage only).
+* **Takeaway:** Unlike datasets with lower injury rates, a significant majority (62.5%) of known ADAS collisions involved some level of reported injury. This poses a high safety concern for passengers using the driverless cars on a regular basis.
 
 </font>
 
