@@ -47,7 +47,7 @@ Excluding the <b>550 unknown location reports</b>, the majority of daily road ac
 We analyzed environmental conditions including rain, cloudiness, snow, and storms:
 
 * **Clear Weather:** After excluding unknowns, the majority of incidents occurred under clear weather conditions.
-* **Key Insight:** This trend is heavily influenced by the fact that self-driving cars are often restricted from operating in severe weather conditions like heavy fog or strong winds.
+* **Key Insight:** This trend is heavily influenced by the fact that self-driving cars are often restricted from operating in severe weather conditions like heavy fog or strong winds. With all the advanced sensors equipped in the vehicle, it should be able to operate well with minimal accidents in severe weather conditions.
 
 </font>
 
@@ -61,7 +61,7 @@ The dataset highlights vehicle actions directly preceding collisions:
 
 * **CP Section:** **"Proceeding Straight"** was the leading movement with **177 incidents**.
 * **SV Section:** **"Proceeding Straight"** was also the top occurrence with **294 incidents**.
-* **Takeaway:** This is very surprising as a lot of accidents occur during turns at an intersection with human drivers.
+* **Takeaway:** This is very surprising as a lot of accidents occur during turns at an intersection with human drivers. With the advanced sensors equipped, people expect driverless vehicles to know well what to do if they are approaching a situation of a potential accident, especially when they are going straight.
 
 </font>
 
