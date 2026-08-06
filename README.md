@@ -47,7 +47,7 @@ Excluding the <b>550 unknown location reports</b>, the majority of daily road ac
 We analyzed environmental conditions including rain, cloudiness, snow, and storms:
 
 * **Clear Weather:** After excluding unknowns, the majority of incidents occurred under clear weather conditions.
-* **Key Insight:** This trend is heavily influenced by the fact that self-driving cars are often restricted from operating in severe weather conditions like heavy fog or strong winds. With all the advanced sensors equipped in the vehicle, it should be able to operate well with minimal accidents in severe weather conditions.
+* **Key Insight:** This trend is heavily influenced by the fact that self-driving cars are often restricted from operating in severe weather conditions like heavy fog or strong winds. With all the advanced sensors equipped with the vehicle, it should be able to operate well with minimal accidents in clear weather conditions. If these vehicles had to operate in severe weather conditions, accident rates could have increased more. Human driven vehicles are also able to operate in such conditions.
 
 </font>
 
@@ -61,7 +61,7 @@ The dataset highlights vehicle actions directly preceding collisions:
 
 * **CP Section:** **"Proceeding Straight"** was the leading movement with **177 incidents**.
 * **SV Section:** **"Proceeding Straight"** was also the top occurrence with **294 incidents**.
-* **Takeaway:** This is very surprising as a lot of accidents occur during turns at an intersection with human drivers. With the advanced sensors equipped, people expect driverless vehicles to know well what to do if they are approaching a situation of a potential accident, especially when they are going straight.
+* **Takeaway:** This is very surprising as a lot of accidents occur during turns at an intersection with human drivers. As the driverless vehicles are equipped with advanced sensors and AI technology, people expect them to be well trained to assess or analyze the road conditions very well, especially when they are going straight because that is probably a less complicated situation while driving.
 
 </font>
 
@@ -72,7 +72,7 @@ The dataset highlights vehicle actions directly preceding collisions:
 <font color="#1E3A8A">
 
 * **Injury Rates:** Excluding unknown records, only **37.5% of the accidents** resulted in no injuries (property damage only).
-* **Takeaway:** Unlike datasets with lower injury rates, a significant majority (62.5%) of known ADAS collisions involved some level of reported injury. This poses a high safety concern for passengers using the driverless cars on a regular basis.
+* **Takeaway:** Unlike datasets with lower injury rates, a significant majority (62.5%) of known ADAS collisions involved some level of reported injury. Due to the severity of the incidents, this poses a high safety concern for passengers using the driverless cars on a regular basis.
 
 </font>
 
