@@ -59,6 +59,8 @@ We analyzed environmental conditions including rain, cloudiness, snow, and storm
 
 <font color="#1E3A8A">
 
+<img width="902" height="296" alt="Screenshot 2026-09-05 213747" src="https://github.com/user-attachments/assets/714828e1-77ee-475d-bfb7-f336fa5164cb" />
+
 The dataset highlights vehicle actions directly preceding collisions:
 
 * **CP Section:** **"Proceeding Straight"** was the leading movement with **177 incidents**.
