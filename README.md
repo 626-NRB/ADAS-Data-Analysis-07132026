@@ -18,6 +18,8 @@ We analyzed the <b>ADAS Car Crash Dataset</b> containing <b>1,536 NHTSA reports<
 
 <font color="#1E3A8A">
 
+<img width="589" height="416" alt="Screenshot 2026-09-05 212822" src="https://github.com/user-attachments/assets/02e2c7a5-926a-449e-9954-66ec47e3b236" />
+
 Excluding the <b>550 unknown location reports</b>, the majority of daily road accidents occur on freeways:
 
 </font>
