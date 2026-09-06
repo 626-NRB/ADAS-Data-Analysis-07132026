@@ -76,4 +76,14 @@ The dataset highlights vehicle actions directly preceding collisions:
 
 </font>
 
+---
+
+### <font color="#2563EB">Reference</font>
+
+<font color="#1E3A8A">
+
+* **Notebook:** https://colab.research.google.com/drive/12t2YcqY6SyBCc3ryiJ-7gCNZnrqTIa4i?usp=sharing
+* **Notes: ** Be sure to download the dataset (and upload it to Google Drive if neccesary) and place it in the notebook before running every operation. This will prevent most issues with reading the dataset.
+
+</font>
 </div>
