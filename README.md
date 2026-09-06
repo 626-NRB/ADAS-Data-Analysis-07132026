@@ -59,8 +59,6 @@ We analyzed environmental conditions including rain, cloudiness, snow, and storm
 
 <font color="#1E3A8A">
 
-<img width="902" height="296" alt="Screenshot 2026-09-05 213747" src="https://github.com/user-attachments/assets/714828e1-77ee-475d-bfb7-f336fa5164cb" />
-
 The dataset highlights vehicle actions directly preceding collisions:
 
 * **CP Section:** **"Proceeding Straight"** was the leading movement with **177 incidents**.
@@ -74,6 +72,9 @@ The dataset highlights vehicle actions directly preceding collisions:
 ### <font color="#2563EB">🩺 Injury Severity & Impact</font>
 
 <font color="#1E3A8A">
+
+<img width="878" height="272" alt="Screenshot 2026-09-05 214022" src="https://github.com/user-attachments/assets/6bfa799f-b664-4fd4-9421-4553350b1084" />
+
 
 * **Injury Rates:** Excluding unknown records, only **37.5% of the accidents** resulted in no injuries (property damage only).
 * **Takeaway:** Unlike datasets with lower injury rates, a significant majority (62.5%) of known ADAS collisions involved some level of reported injury. Due to the severity of the incidents, this poses a high safety concern for passengers using the driverless cars on a regular basis.
